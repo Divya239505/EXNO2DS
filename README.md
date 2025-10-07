@@ -170,20 +170,5 @@ pt=sns.boxplot(ax=ax1,x='Pclass',y='Age',hue='Gender',data=df)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+ Thus performing Exploratory Data Analysis on the given data set.
